@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Meu-SMP.aternos.me",
+    "ip": "bigscale.aternos.host:12072",
     "port": 12072,
     "version": "",
     "try-creative": false
