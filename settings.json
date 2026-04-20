@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "AFK Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Shirou00z.aternos.me",
+    "port": 41451,
     "version": "",
     "try-creative": false
   },
@@ -38,8 +38,8 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 200000000000000,
+    "max-reconnect-delay": 120000000000000000000000000000
   },
   "movement": {
     "enabled": true,
@@ -62,7 +62,7 @@
     "combat": true,
     "beds": false,
     "chat": true,
-    "console-commands": true
+    "console-commands": false
   },
   "combat": {
     "attack-mobs": true,
