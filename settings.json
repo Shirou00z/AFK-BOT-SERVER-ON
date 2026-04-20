@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Meu-SMP.aternos.me",
-    "port": 12072,
+    "ip": "Shirou00z.aternos.me",
+    "port": 41451,
     "version": "",
     "try-creative": false
   },
@@ -23,7 +23,7 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": false,
+      "enabled": true,
       "sneak": true
     },
     "chat-messages": {
@@ -62,7 +62,7 @@
     "combat": true,
     "beds": false,
     "chat": true,
-    "console-commands": true
+    "console-commands": false
   },
   "combat": {
     "attack-mobs": true,
